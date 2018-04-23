@@ -1,5 +1,6 @@
-Send the following to msfdev@metasploit.com
+**Note:** Project proposals must be submitted through to Google through the GSoC Program Website, as stated in the [rules](https://summerofcode.withgoogle.com/rules/).
 
+When making your proposal, please include:
 
 ## Title
 
